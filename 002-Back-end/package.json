@@ -1,0 +1,17 @@
+{
+  "name": "002-back-end",
+  "version": "1.0.0",
+  "main": "math.js",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh Shinde",
+  "license": "ISC",
+  "type": "module",
+  "keywords": [],
+  "description": ""
+}
